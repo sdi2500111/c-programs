@@ -7,4 +7,6 @@
 
 int main() {
     printf("This is a simple C program.\n");
+    printf("This is a simple C program.\n");
 }
+
